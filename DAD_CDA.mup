@@ -181,31 +181,63 @@
       "title": "Life Cycles",
       "id": 48,
       "ideas": {
-        "1": {
-          "title": "Inception",
-          "id": 49
-        },
-        "2": {
-          "title": "Construction",
-          "id": 50
-        },
-        "3": {
-          "title": "Transistion",
-          "id": 51
-        },
-        "13": {
-          "title": "Production",
-          "id": 53,
+        "14": {
+          "title": "Exploritory",
+          "id": 54,
           "attr": {
             "style": {}
           }
         },
-        "0.5": {
-          "title": "Concept",
-          "id": 52,
-          "attr": {
-            "style": {}
+        "15": {
+          "title": "Continuous Delivery",
+          "id": 56
+        },
+        "16": {
+          "title": "Lean",
+          "id": 57,
+          "ideas": {
+            "1": {
+              "title": "Inception",
+              "id": 49,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Transistion",
+              "id": 51,
+              "attr": {
+                "style": {}
+              }
+            },
+            "12": {
+              "title": "Production",
+              "id": 53,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "1.5": {
+              "title": "Concept",
+              "id": 52,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "1.75": {
+              "title": "Construction",
+              "id": 50,
+              "attr": {
+                "style": {}
+              }
+            }
           }
+        },
+        "17": {
+          "title": "Basic",
+          "id": 58
         }
       }
     }
