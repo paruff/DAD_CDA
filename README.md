@@ -1,2 +1,2 @@
 # DAD_CDA
-Use mindmup to view the mind map. 
+Use [mindmup](https://www.mindmup.com/) to view the mind map. 
