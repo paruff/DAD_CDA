@@ -1,0 +1,213 @@
+{
+  "title": "DAD",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "goal-driven",
+      "id": 2
+    },
+    "2": {
+      "title": "Process descision framework",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "People first",
+          "id": 20
+        },
+        "2": {
+          "title": "Goal Driven",
+          "id": 21
+        },
+        "3": {
+          "title": "Hybrid agile",
+          "id": 23
+        },
+        "4": {
+          "title": "Learning-oriented",
+          "id": 24
+        },
+        "5": {
+          "title": "Full Delivery Lifecycle",
+          "id": 25
+        },
+        "6": {
+          "title": "Solution Focused",
+          "id": 26
+        },
+        "7": {
+          "title": "Risk-value lifecycle",
+          "id": 27
+        },
+        "8": {
+          "title": "Enterprise Aware",
+          "id": 28,
+          "ideas": {}
+        }
+      }
+    },
+    "3": {
+      "title": "Lean",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "Eliminate Waste",
+          "id": 11
+        },
+        "2": {
+          "title": "Build in Quality",
+          "id": 13
+        },
+        "3": {
+          "title": "Create Knowledge",
+          "id": 14
+        },
+        "4": {
+          "title": "Defer Commitment",
+          "id": 15
+        },
+        "5": {
+          "title": "Respect people",
+          "id": 17
+        },
+        "6": {
+          "title": "Deliver Quickly",
+          "id": 18
+        },
+        "7": {
+          "title": "Optimize the Whole",
+          "id": 19
+        }
+      }
+    },
+    "4": {
+      "title": "Roles",
+      "id": 30,
+      "ideas": {
+        "1": {
+          "title": "Primary",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "Team Lead",
+              "id": 34
+            },
+            "1.5": {
+              "title": "Architecture Owner",
+              "id": 37,
+              "ideas": {
+                "1": {
+                  "title": "Technical Risks",
+                  "id": 41
+                },
+                "2": {
+                  "title": "Technical Priorities",
+                  "id": 42
+                }
+              }
+            },
+            "1.75": {
+              "title": "Team Member",
+              "id": 39
+            },
+            "1.875": {
+              "title": "Stakeholder",
+              "id": 40
+            },
+            "1.25": {
+              "title": "Product Owner",
+              "id": 35,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Secondary",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "Specialists",
+              "id": 43
+            },
+            "2": {
+              "title": "Domain Expert",
+              "id": 44
+            },
+            "3": {
+              "title": "Technical Expert",
+              "id": 45
+            },
+            "4": {
+              "title": "Independent Testers",
+              "id": 46
+            },
+            "5": {
+              "title": "Integrator",
+              "id": 47
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "customer to stakeholder",
+      "id": 3
+    },
+    "-11": {
+      "title": "software to consumerable Solution",
+      "id": 4
+    },
+    "-21": {
+      "title": "Principles",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Visulize workflow",
+          "id": 6
+        },
+        "2": {
+          "title": "Ecosystem",
+          "id": 7
+        },
+        "3": {
+          "title": "hybrid",
+          "id": 8
+        }
+      }
+    },
+    "-22": {
+      "title": "Life Cycles",
+      "id": 48,
+      "ideas": {
+        "1": {
+          "title": "Inception",
+          "id": 49
+        },
+        "2": {
+          "title": "Construction",
+          "id": 50
+        },
+        "3": {
+          "title": "Transistion",
+          "id": 51
+        },
+        "13": {
+          "title": "Production",
+          "id": 53,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.5": {
+          "title": "Concept",
+          "id": 52,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    }
+  }
+}
