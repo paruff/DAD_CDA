@@ -1,5 +1,5 @@
 {
-  "title": "DAD",
+  "title": "DAD CDA",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -148,6 +148,24 @@
               "id": 47
             }
           }
+        }
+      }
+    },
+    "5": {
+      "title": "GOAL",
+      "id": 59,
+      "ideas": {
+        "1": {
+          "title": "Goals",
+          "id": 60
+        },
+        "2": {
+          "title": "Factors",
+          "id": 61
+        },
+        "3": {
+          "title": "Options",
+          "id": 62
         }
       }
     },
