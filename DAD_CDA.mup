@@ -261,7 +261,68 @@
         },
         "17": {
           "title": "Basic",
-          "id": 58
+          "id": 58,
+          "ideas": {
+            "1": {
+              "title": "Inception",
+              "attr": {
+                "style": {}
+              },
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "Form Initial Team",
+                  "id": 67
+                },
+                "2": {
+                  "title": "Develop Common Vision",
+                  "id": 68
+                },
+                "3": {
+                  "title": "Align with Enterprise Direction",
+                  "id": 69
+                },
+                "4": {
+                  "title": "Explore Initiial Scope",
+                  "id": 70
+                },
+                "5": {
+                  "title": "Identify Initial techincal Strategy",
+                  "id": 71
+                },
+                "6": {
+                  "title": "Develop Initial Release Plan",
+                  "id": 72
+                },
+                "7": {
+                  "title": "Secure Funding",
+                  "id": 73
+                },
+                "8": {
+                  "title": "Develop initial Work Environment",
+                  "id": 74
+                },
+                "9": {
+                  "title": "Identify Risks",
+                  "id": 75
+                }
+              }
+            },
+            "2": {
+              "title": "Construction",
+              "attr": {
+                "style": {}
+              },
+              "id": 65
+            },
+            "3": {
+              "title": "Transistion",
+              "attr": {
+                "style": {}
+              },
+              "id": 66
+            }
+          }
         }
       }
     }
